@@ -1,0 +1,5 @@
+crawl4ai
+weaviate-client
+python-dotenv
+openai
+streamlit
