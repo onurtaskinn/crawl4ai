@@ -1,0 +1,62 @@
+[
+    {
+        "model_name": "OpenAI o1",
+        "input_fee": "$15.00 / 1M tokens",
+        "output_fee": "$60.00 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "OpenAI o3-mini",
+        "input_fee": "$1.10 / 1M tokens",
+        "output_fee": "$4.40 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "GPT-4o",
+        "input_fee": "$2.50 / 1M tokens",
+        "output_fee": "$10.00 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "GPT-4o mini",
+        "input_fee": "$0.150 / 1M tokens",
+        "output_fee": "$0.600 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "GPT-4o (Fine-tuning)",
+        "input_fee": "$3.750 / 1M tokens",
+        "output_fee": "$15.000 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "GPT-4o mini (Fine-tuning)",
+        "input_fee": "$0.30 / 1M tokens",
+        "output_fee": "$1.20 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "GPT-4o (Realtime API - Text)",
+        "input_fee": "$5.00 / 1M tokens",
+        "output_fee": "$20.00 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "GPT-4o mini (Realtime API - Text)",
+        "input_fee": "$0.60 / 1M tokens",
+        "output_fee": "$2.40 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "GPT-4o (Realtime API - Audio)",
+        "input_fee": "$40.00 / 1M tokens",
+        "output_fee": "$80.00 / 1M tokens",
+        "error": false
+    },
+    {
+        "model_name": "GPT-4o mini (Realtime API - Audio)",
+        "input_fee": "$10.00 / 1M tokens",
+        "output_fee": "$20.00 / 1M tokens",
+        "error": false
+    }
+]

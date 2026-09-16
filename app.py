@@ -1,6 +1,6 @@
 import streamlit as st
 import asyncio
-from web_rag_system import RAGSystem
+from rag_system import RAGSystem
 
 st.set_page_config(page_title="Website RAG System", page_icon="🔍")
 

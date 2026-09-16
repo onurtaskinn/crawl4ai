@@ -1,3 +1,11 @@
 venv
+.venv
 .env
 __pycache__
+*.pyc
+.DS_Store
+
+# Kütüphanenin sayfa dışa aktarma denemesinden kalan yakalamalar.
+# Yeniden üretilebilir ve 28 MB tutuyor; outputs/ altındaki JSON'lar yeterli kayıt.
+examples/*.pdf
+examples/*.png
